@@ -3,6 +3,7 @@ Sakuwrite: Your Personal Journaling Companion
 Sakuwrite is more than just a journaling app—it's a space to reflect, express, and find inspiration. Designed to make your writing experience both meaningful and enjoyable, Sakuwrite helps you pen down your thoughts with unique features tailored just for you.
 
 🌸 Features You'll Love
+
 Random Inspirational Quotes
 Start your journaling session with a spark of inspiration! Each time you open the app, you're greeted with a carefully selected motivational quote to encourage introspection and creativity.
 
